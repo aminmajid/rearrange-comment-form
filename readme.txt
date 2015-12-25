@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: amin.majid3
-Donate link: http://qminmajid.com/
+Donate link: http://aminmajid.com/
 Tags: comments
 Requires at least: 4.4
 Tested up to: 4.4
